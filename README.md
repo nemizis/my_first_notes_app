@@ -1,2 +1,11 @@
-# My_first_note_app
- My first React + django application
+Это Backend часть приложения Notes. 
+Использовал Django + DRF
+Первый опыт в данной технологии.
+Фронтенд лежит в данном репозитории: https://github.com/nemizis/notes_frontend
+
+Для пробного запуска требуется:
+
+Установить виртуальное окружение Python.
+Установить зависимости из файла requirements.txt
+Запустить сервер.
+Запустить фронэнд.
